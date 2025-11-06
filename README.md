@@ -15,6 +15,6 @@ https://www.mdpi.com/2076-3417/15/21/11585
 
 如果你在研究中使用了本代码或方法，请引用原论文：
 
-> Chen Z., Yang J., Yin Z., Wu Y., Zhong L., Jia Q., Chen Z. “Hybrid Frequency–Temporal Modeling with Transformer for Long-Term Satellite Telemetry Prediction”. *Applied Sciences*, 2025, 15(21), 11585. DOI:10.3390/app152111585 
+> Chen, Z.; Yang, J.; Yin, Z.; Wu, Y.; Zhong, L.; Jia, Q.; Chen, Z. Hybrid Frequency–Temporal Modeling with Transformer for Long-Term Satellite Telemetry Prediction. Appl. Sci. 2025, 15, 11585. https://doi.org/10.3390/app152111585
 
 
